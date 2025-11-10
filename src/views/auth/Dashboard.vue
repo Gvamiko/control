@@ -13,7 +13,7 @@
         <div class="grid grid-cols-1 md:grid-cols-12 gap-3">
           <!-- Search -->
           <div class="md:col-span-4">
-            <label class="block text-sm text-gray-600 mb-1">ძიება (სახელი, გვარი, პირადი ნომერი, სტუმრად)</label>
+            <label class="block text-sm text-gray-600 mb-1">ძიება (სახელი, გვარი, პირადი ნომერი, სტუმრად )</label>
             <input
                 v-model.trim="filters.q"
                 type="text"
